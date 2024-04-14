@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "stormlightmod:sprenshard"
+    }
+  },
+  "pattern":[
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "stormlightmod:shard_block"
+  }
+}

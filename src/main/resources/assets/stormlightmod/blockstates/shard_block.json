@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "stormlightmod:block/shard_block"
+    }
+  }
+}
