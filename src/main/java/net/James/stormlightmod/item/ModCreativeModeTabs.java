@@ -24,6 +24,9 @@ public class ModCreativeModeTabs {
                         }
                         pOutput.accept(ModBlocks.STONE_SPREN.get());
                         pOutput.accept(ModBlocks.SHARD_BLOCK.get());
+                        pOutput.accept(StormlightItems.SprenShard.get());
+                        pOutput.accept(StormlightItems.SprenInRock.get());
+                        pOutput.accept(StormlightItems.ShardDetector.get());
                     })
                     .build());
                 /*.displayItems((pParameters, pOutput) ->{

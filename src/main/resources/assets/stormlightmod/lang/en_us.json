@@ -1,8 +1,10 @@
 {
   "item.stormlightmod.sprenshard": "A shard of something greater...",
   "item.stormlightmod.rock_spren": "Sparkling rock",
+  "item.stormlightmod.shard_detector": "Dousing Fabrial",
   "block.stormlightmod.stone_spren": "Faintly glimmering stone",
   "block.stormlightmod.shard_block": "Shard plate block",
-  "creativetab.stormlightmod_tab": "Stormlight Mod"
+  "creativetab.stormlightmod_tab": "Stormlight Mod",
+
 
 }
